@@ -16,7 +16,7 @@ To use the calculator, simply run the `Calculator GUI.py` file.
 
 ### Example
 
-
+<img width="932" alt="Elo Calculator" src="https://user-images.githubusercontent.com/63872314/226641893-741dd8e9-7892-453d-86a9-6e2afc10151e.PNG">
 
 ## Requirements
 - Python 3.6 or higher
